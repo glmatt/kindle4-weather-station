@@ -1,0 +1,12 @@
+# Dati generati sul dispositivo, non vanno versionati
+fuso.txt
+batteria.log
+crontab.bak
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Sistema
+.DS_Store
+Thumbs.db
